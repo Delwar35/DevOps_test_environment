@@ -1,6 +1,6 @@
 **Hello**
 # DevOps Intro
-# Development Env
+# Development Environment
 
 -Install Vagrant
 -Install Ruby
