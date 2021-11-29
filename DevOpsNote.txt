@@ -1,0 +1,30 @@
+What is DevOps?
+Bings the development team and the operation team together 
+
+DevOps practices:
+CI/CD - Continuous Integration, Continuous Delivry, Continuous Deployment
+
+
+Why DevOPs?
+
+- Communication between the Development team and Operation team (no isolated team)
+- Faster development of product 
+- Adaptable to changes 
+- Reduce cost and increase profits 
+
+
+4 pillars of DevOps
+
+- Ease of use
+- Flexibility
+- Robustness
+- Cost
+
+
+Risks
+
+Dev Environment broken - Low/Medium
+Testing server broken - Low/Medium
+Automated testing broken - Low/Medium
+Jenkins server broken - Low/Medium
+Production server fails - High
